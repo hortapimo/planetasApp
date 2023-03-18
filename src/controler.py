@@ -1,4 +1,4 @@
-from view import View
+from .view import View
 
 class Controlador:
     def __init__(self):
@@ -10,7 +10,6 @@ class Controlador:
         self.view.createGUI()
         self.view.starLoop()
         
-
 
 
  

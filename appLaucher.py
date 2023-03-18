@@ -1,5 +1,5 @@
-from src.controler import *
+from src.controler import Controlador
 
-controlador = Controler()
-controlador.starLoop()
+controlador = Controlador()
+controlador.starGUI()
 

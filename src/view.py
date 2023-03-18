@@ -1,5 +1,5 @@
 import tkinter as tk
-#from controler import Controler
+
 class View:
     def __init__(self, controler):
         
