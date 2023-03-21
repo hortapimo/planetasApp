@@ -1,0 +1,2 @@
+La aplicacion simula el movimiento de n planetas, definidos por 
+el usuario.
