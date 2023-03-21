@@ -9,7 +9,6 @@ class Controlador:
         self.view.showSplashWindow()
         self.view.createGUI()
         self.view.starLoop()
-        
 
 
  

@@ -12,7 +12,7 @@ class View:
     def showSplashWindow(self):
         
         self.splashLabel= tk.Label(self.splashWindow, text='Bienvenido a mi Super APP').pack()
-        self.splashWindow.geometry("700x500")
+        self.splashWindow.geometry("1500x500")
         self.splashWindow.attributes('-topmost',True)
         self.splashWindow.overrideredirect(True)
         self.splashWindow.after(3500, self.splashWindow.destroy)
